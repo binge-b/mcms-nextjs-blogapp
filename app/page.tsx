@@ -63,10 +63,10 @@ export default async function Home() {
               <a href="#">Prisma</a>
             </li>
             <li className="text-red-600">
-              <a href="#">Supabase</a>
+              <a href="#">microCMS</a>
             </li>
             <li className="text-red-600">
-              <a href="#">microCMS</a>
+              <a href="#">Supabase</a>
             </li>
             <li className="text-red-600">
               <a href="#">Postman</a>
