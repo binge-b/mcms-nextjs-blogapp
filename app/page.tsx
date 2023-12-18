@@ -66,10 +66,10 @@ export default async function Home() {
               <a href="#">Supabase</a>
             </li>
             <li className="text-red-600">
-              <a href="#">Postman</a>
+              <a href="#">microCMS</a>
             </li>
             <li className="text-red-600">
-              <a href="#">microCMS</a>
+              <a href="#">Postman</a>
             </li>
             <li className="text-red-600">
               <a href="#">jQuery</a>
