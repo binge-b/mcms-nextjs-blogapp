@@ -33,7 +33,7 @@ export default async function Home() {
                 <p>膨大な事務作業を効率化できないかと、ChatGPTを使ったことがきっかけでプログラミングと出会い、7月よりインターネットアカデミーのAIエンジニア育成コースを受講。毎日新しいコードや機能の実装にトライしており、3日ほどでアプリやWebサイトの大まかな要素の実装ができます。</p>
               </li>
               <li className="px-3 py-1">
-                <p>現在JavaScript、TypeScript、JSX、tailwindcss、React、Next.jsを独学で勉強しながら、良いアイディアをフルスタックで開発できるようになることを目指して、今日も楽しくプログラミング中～！ ^o^</p>
+                <p>Next.js,React,TS,JS,Tailwind,Prisma,microCMS,Supabaseを使用したwebAppの実装経験があります。フルスタック開発者になることを目指して、今日も楽しくプログラミング中～！ ^o^</p>
               </li>
             </ul>
         </div>
