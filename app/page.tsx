@@ -30,14 +30,13 @@ export default async function Home() {
                 <p>（震災復興NPO→朝のニュース番組のスタッフ→農業... と少し変わった職務経歴を持っています）</p>
               </li>
               <li className="px-3 py-1">
-                <p>膨大な事務作業を効率化できないかと、ChatGPTを使ったことがきっかけでプログラミングと出会い、6月よりインターネットアカデミーのAIエンジニア育成コースを受講。毎日新しいコードや機能の実装にトライしており、3日ほどでアプリやWebサイトの大まかな要素の実装ができます。</p>
+                <p>膨大な事務作業を効率化できないかと、ChatGPTを使ったことがきっかけでプログラミングと出会い、7月よりインターネットアカデミーのAIエンジニア育成コースを受講。毎日新しいコードや機能の実装にトライしており、3日ほどでアプリやWebサイトの大まかな要素の実装ができます。</p>
               </li>
               <li className="px-3 py-1">
-                <p>Next.js,React,TS,JS,Tailwindcss,Prisma,microCMS,Supabase,Postmanを使用してWebサイトやアプリの実装経験があります。良いアイディアをフルスタックで開発できるようになることを目指して、今日も楽しくプログラミング中～！  ^o^</p>
+                <p>Next.js,React,TS,JS,Tailwindcss,Prisma,microCMS,Supabaseの使用した実装経験があります。良いアイディアをフルスタックで開発できるようになることを目指して、今日も楽しくプログラミング中～！ ^o^</p>
               </li>
             </ul>
         </div>
-      </aside>
 
         <div className="bg-gray-200 shadow-md rounded p-4 mb-6 mt-4 w-full">
           <h3 className="font-bold text-sky-950 mb-2">使用したことのあるStack</h3>
@@ -49,7 +48,7 @@ export default async function Home() {
               <a href="#">Next.js</a>
             </li>
             <li className="text-red-600">
-              <a href="#">Vite+React</a>
+              <a href="#">React</a>
             </li>
             <li className="text-red-600">
               <a href="#">TypeScript</a>
