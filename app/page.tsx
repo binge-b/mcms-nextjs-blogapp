@@ -30,10 +30,10 @@ export default async function Home() {
                 <p>（震災復興NPO→朝のニュース番組のスタッフ→農業... と少し変わった職務経歴を持っています）</p>
               </li>
               <li className="px-3 py-1">
-                <p>膨大な事務作業を効率化できないかと、ChatGPTを使ったことがきっかけでプログラミングと出会い、7月よりインターネットアカデミーのAIエンジニア育成コースを受講。毎日新しいコードや機能の実装にトライしており、3日ほどでアプリやWebサイトの大まかな要素の実装ができます。</p>
+                <p>膨大な事務作業を効率化できないかと、ChatGPTを使ったことがきっかけでプログラミングと出会い、6月よりインターネットアカデミーのAIエンジニア育成コースを受講。毎日新しいコードや機能の実装にトライしており、3日ほどでアプリやWebサイトの大まかな要素の実装ができます。</p>
               </li>
               <li className="px-3 py-1">
-                <p>現在JavaScript、TypeScript、JSX、tailwindcss、React、Next.jsを独学で勉強しながら、良いアイディアをフルスタックで開発できるようになることを目指して、今日も楽しくプログラミング中～！ ^o^</p>
+                <p>Next.js,React,TypeScript,JavaScript,Tailwindcss,Prisma,microCMS,Supabase,Postmanを使用してWebサイトやアプリの実装経験があります。良いアイディアをフルスタックで開発できるようになることを目指して、今日も楽しくプログラミング中～！ ^o^</p>
               </li>
             </ul>
         </div>
@@ -48,7 +48,7 @@ export default async function Home() {
               <a href="#">Next.js</a>
             </li>
             <li className="text-red-600">
-              <a href="#">React</a>
+              <a href="#">Vite+React</a>
             </li>
             <li className="text-red-600">
               <a href="#">TypeScript</a>
